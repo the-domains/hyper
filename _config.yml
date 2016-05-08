@@ -1,6 +1,6 @@
 name: hyper
 favicon: null
-layout_spectrum: 0.2584266420453787
+layout_spectrum: 0.70809
 typography_spectrum: 0.5377519596368074
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7079993430525064
+    - '#ffffff'
+    - '#858e99'
+    - '#000000'
+    - '#99c2f1'
+    - '#0079ff'
+  brandStrength: 0.875
   lightness: 0.2536816829815507
   saturation: 0.9977293771225959
   rhythmicContrast: 0.0775021396111697
