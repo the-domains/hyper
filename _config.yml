@@ -1,0 +1,28 @@
+name: hyper
+favicon: null
+layout_spectrum: 0.2584266420453787
+typography_spectrum: 0.5377519596368074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7079993430525064
+  lightness: 0.2536816829815507
+  saturation: 0.9977293771225959
+  rhythmicContrast: 0.0775021396111697
+purpose: []
